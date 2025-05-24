@@ -21,12 +21,12 @@ import hero2 from "../assets/media/LandingPage/hero2.jpg";
 import hero3 from "../assets/media/LandingPage/hero3.jpg";
 
 const partnerLogos = [
-  { id: 1, name: "Flavor & Spicy", logo: "/flavor-spicy-logo.png" },
-  { id: 2, name: "QuickFix Coworking", logo: "/coworking-logo.png" },
-  { id: 3, name: "QuickFix Laundry", logo: "/laundry-logo.png" },
-  { id: 4, name: "QuickFix Pharmacy", logo: "/pharmacy-logo.png" },
-  { id: 5, name: "QuickFix Events", logo: "/events-logo.png" },
-  { id: 6, name: "QuickFix Catering", logo: "/catering-logo.png" },
+  { id: 1, name: "Flavor & Spicy", logo: "/hero1.jpg" },
+  { id: 2, name: "QuickFix Coworking", logo: "/hero.jpg" },
+  { id: 3, name: "QuickFix Laundry", logo: "/hero2.jpg" },
+//   { id: 4, name: "QuickFix Pharmacy", logo: "/hero3.jpg" },
+//   { id: 5, name: "QuickFix Events", logo: "/events-logo.png" },
+//   { id: 6, name: "QuickFix Catering", logo: "/catering-logo.png" },
 ];
 
 const Landing = () => {
