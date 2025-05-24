@@ -27,6 +27,9 @@ const Navbar = ({ navbarRef }) => {
                     <button className="close-btn" onClick={toggleSidebar}>
                         ✕
                     </button>
+                    <NavLink className="nav-item" to="/" onClick={toggleSidebar}>
+                        Home
+                    </NavLink>
                     <NavLink className="nav-item" to="/about-us" onClick={toggleSidebar}>
                         About
                     </NavLink>

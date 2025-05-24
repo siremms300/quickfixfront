@@ -119,7 +119,7 @@ const Landing = () => {
                             <Link className="cta-button" to="/all-schools">   
                                 Visit Restaurant
                             </Link>
-                            <Link className="cta-button secondary" to="/coworking">
+                            <Link className="cta-button secondary" to="/webinar">
                                 Book Workspace
                             </Link>
                         </div>
